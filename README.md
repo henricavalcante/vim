@@ -1,2 +1,4 @@
 # vim
-my vim configurations
+deprecated
+
+see [this](https://github.com/henricavalcante/dotfiles)
